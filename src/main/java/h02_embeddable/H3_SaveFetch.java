@@ -45,14 +45,7 @@ public class H3_SaveFetch {
 		scan.close();
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 		
 		tx.commit();
 	}
